@@ -1,8 +1,8 @@
 body {
-  text-align:center;
-  background: url('images/Hero_image');
-  background-size: auto;
+  background-image: url('http://www.birds.com/wp-content/uploads/home/bird4.jpg');
+  background-size: cover;
   background: #000;
+  text-align:center;
   color: #fff;
   font-family: Helvetica;
 }
