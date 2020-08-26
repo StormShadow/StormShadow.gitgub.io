@@ -1,8 +1,12 @@
 body {
   text-align:center;
-  background: url('images/national-cancer-institute-2fyeLhUeYpg-unsplash.jpg');
-  background-size: cover;
+  background: url('images/Hero_image');
+  background-size: auto;
   background: #000;
   color: #fff;
   font-family: Helvetica;
+}
+
+hr {
+  width: 200px;
 }
