@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,900&display=swap');
+
+body {
+      font-family: Neuton, Helvetica, "Times New Roman",Times, serif;
+      line-height: 1.5em;
+      color: #fff;
+      background-color: #000
+}
+
+div {
+    background-color: #7AACBF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #7AACBF;
+    border: 1px black solid;
+    padding: 20px;
+}
+header {
+      text-align:center;
+      background-image: url('https://StormShadow.github.io/unit_5/images/Bio_Hero_Imag.jpg');
+      background-size: cover;
+      line-height: 1.5em;
+      color: #fff;
+      background-color: #7ED0D9
+      border: 1px black solid;
+      padding: 20px;
+}
+
+nav {
+    background-color: #9BDAF2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#two_column {
+    background-color: #59332A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #3BBFB2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 62%;
+}
+
+#right {
+    background-color: #F26052;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 32%;
+}
+
+aside {
+    background-color: #F26052;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #262621;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #3BBFB2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.outline {
+    -webkit-text-stroke: 1px black;
+}
+
+hr {
+  width: 200px;
+}
+
+h1 {
+      font-family: Nunito,Helvetica, "Times New Roman",Times, sans-serif;
+}
+
+p {
+  font-size: 22px;
+}
